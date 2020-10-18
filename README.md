@@ -27,7 +27,7 @@ This class contains the initialization of the properties, the token aquisition a
 This folder contain different classes as to be used as utility for the project
   
   - **FileCopier.java** -> This class is used to copy files from a folder to another
-  - **FileReadser.java** -> This class is used to read n files from a folder  
+  - **FileReader.java** -> This class is used to read n files from a folder  
   - **Globals.java** -> Class containing the global values used in the application
   - **PropertiesUtils.java** -> Class used to iteract with the properties file
 
