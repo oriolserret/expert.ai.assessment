@@ -1,0 +1,27 @@
+Many endpoint security vendors are beginning to offer their applications only in the cloud, sunsetting their on-premise offerings. This approach may be beneficial to the vendor, but many clients continue to need on-premise solutions.
+Vendors that sunset on-premise solutions force clients that prefer on-premise solutions to either change their operating environment and approach or change vendors.
+Fortunately, some vendors continue to provide their offerings in both cloud and on-premise versions.
+One such company is Cynet, which allows clients to deploy their EDR and XDR (Extended Detection and Response) solutions in on-premise, cloud, and hybrid cloud delivery models.
+Clients can access the solution in any way they see fit now and into the future. This provides an alternative for organizations that do not want to be forced to move into the cloud.
+Cloud vs. On-Premise
+The cloud vs. on-premise argument continues to rage. Recently, however, it seems that everyone is jumping on the cloud bandwagon⁠—even for security solutions.
+There's no doubt that cloud services have come a long way and now provide several advantages over on-premise solutions, including lower cost, easier updates, and quicker scalability.
+Many companies also realize improved security as the cloud provider may employ security measures that are out of reach for an individual company—and of course, cloud apps are accessible anytime from anywhere via almost any device.
+However, on-premise solutions still provide much greater control around security, privacy, and regulatory compliance, which is important for many organizations, particularly those in highly regulated industries.
+Organizations can work with their cloud providers to develop appropriate controls to attain the levels of security, privacy, and regulatory compliance required.
+However, companies remain liable for any lapses. Sometimes, the risks of relying on a third party for critical controls outweigh the other benefits derived from cloud-based delivery.
+Basic Microeconomics
+So, ultimately, which is better? That's really up to you to decide. There really isn't one correct answer that applies to everyone. Every company's unique circumstances will dictate which route is better.
+Unfortunately, many security vendors are abandoning on-premise offerings for their benefit.
+For vendors, cloud offerings are far cheaper to maintain, provide far more control, and generally cause fewer headaches than supporting separate software installations across multiple clients.
+Because hosting software in the cloud has many advantages, many vendors have decided to sunset their on-premise solutions and move entirely to cloud-only offerings.
+But, what if the cloud doesn't make sense for your particular business?
+The short answer is you either have to grudgingly follow your vendor to the cloud or find a new vendor that provides an on-premise solution.
+It comes down to basic microeconomics. Suppliers offer the services they hope consumers will buy, but consumers ultimately decide whether or not they want the services being offered.
+Fortunately, some vendors understand that many businesses continue to prefer on-premise solutions. There are a variety of reasons, but frankly, the reasons shouldn't matter. If you want your solutions on-premise, you want your solutions on-premise.
+Leading or Following?
+One example is the Endpoint Detection and Response (EDR) market, where vendors are now moving to cloud-only offerings. Some large vendors only offer EDR as a cloud-based solution and other are sun-setting their on-premise EDR solutions and will only provide a cloud-based EDR solution.
+Vendors that only offer cloud-based EDR solutions hope their clients and prospects either already prefer cloud-based services or can be convinced to forgo their current on-premise architecture for a cloud delivery model.
+Other vendors provide multiple deployment models and allow their clients to choose whichever is right for their particular situation.
+Cynet is an example of a vendor that offers its EDR and XDR (Extended Detection and Response) solutions in on-premise, cloud, and hybrid cloud delivery models. If a client wants an on-premise solution, the client gets an on-premise solution. Clients that prefer on-premise solutions at this time that decide to migrate to the cloud in the future have a built-in migration route to cloud Cynet's hybrid delivery model, though.
+The choice of delivery model is up to the client and flexible enough to suit the client's preference now and into the future. 

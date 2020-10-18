@@ -1,0 +1,35 @@
+President Donald Trump threatened to ban TikTok earlier this week unless the China-based app is acquired by a US company. On Thursday, he enshrined that threat into an executive order, calling the wide use of Chinese apps a "national emergency."
+
+"The spread in the United States of mobile applications developed and owned by companies in the People's Republic of China continues to threaten the national security, foreign policy, and economy of the United States," the executive order reads. "At this time, action must be taken to address the threat posed by one mobile application in particular, TikTok."
+
+Coming hours after the Senate voted unanimously to bar ByteDance-owned TikTok from all government devices, the order states that "any transaction by any person" with ByteDance or its subsidiaries will be prohibited in 45 days. This would likely mean that Apple and Google would no longer be able to list the app on their respective app stores, similar to the prohibition against US companies dealing with Huawei.
+
+CNET DAILY NEWS
+Stay in the know. Get the latest tech stories from CNET News every weekday.
+
+Add your email
+SIGN ME UP!
+By signing up, you agree to the CBS Terms of Use and acknowledge the data practices in our Privacy Policy. You may unsubscribe at any time.
+
+It was one of two executive orders issued Thursday against China-based tech companies. Trump followed the TikTok ban with a similar executive order for WeChat, a messaging app owned by Chinese giant TenCent. As with TikTok, the ban goes into effect in 45 days. The ban is exclusive to WeChat, an official told the Los Angeles Times. But if it's extended to the entirety of TenCent, the ban would have massive implications for the gaming industry. TenCent owns Riot Games, developer of League of Legends. TenCent is also a major stakeholder in Fortnite maker Epic Games. 
+
+
+The executive order detailing the threat posed by TikTok notably bars transactions with ByteDance, not TikTok. This presumably opens up the possibility of TikTok continuing to operate under a US company such as Microsoft, which has been in talks about buying some or all of TikTok. 
+
+The US government's concern stems from the data that TikTok and WeChat collect on their US users, as well as the perceived inability of Chinese companies like ByteDance and TenCent to reject requests from China's ruling Communist Party to access that data. Often cited by critics of China is a 2017 law that requires Chinese companies and citizens to comply with all matters of national security.
+
+"TikTok automatically captures vast swaths of information from its users, including internet and other network activity information such as location data and browsing and search histories," the order reads. "This data collection threatens to allow the Chinese Communist Party access to Americans' personal and proprietary information --- potentially allowing China to track the locations of Federal employees and contractors, build dossiers of personal information for blackmail, and conduct corporate espionage."
+
+
+The executive order also cites reports that TikTok censors content in line with CCP guidelines, such as posts touching on the Tiananmen Square massacre and the treatment of Uighur Muslims in Xinjiang, as reason for concern. Trump's order on WeChat cited concern that the app, which had just under 900 million Chinese users in 2016, could be used to spy on Chinese nationalists who visit or immigrate to the US.
+
+
+Now playing: TikTok ban: What you need to know
+ 2:23
+The US is the second country to legislate against TikTok in recent months. India barred the app, along with over 50 other Chinese-made apps and games, in June. India said it banned the apps for national security reasons following skirmishes between Chinese and Indian troops over disputed territory north of India and south of China that left 20 Indian soldiers dead. Australia also considered banning the app, but its prime minster on Wednesday said there was "no reason" to restrict the app "at this point." 
+
+TikTok blasted the executive order in a blunt blog post that accused the administration of acting in bad faith. The company also suggested it would take legal action to challenge the order.
+
+"For nearly a year, we have sought to engage with the US government in good faith to provide a constructive solution to the concerns that have been expressed," TikTok's blog post reads. "What we encountered instead was that the administration paid no attention to facts, dictated terms of an agreement without going through standard legal processes, and tried to insert itself into negotiations between private businesses."
+
+The company has previously denied claims that it collaborates with the Chinese government in espionage. "With our success comes responsibility and accountability," CEO Kevin Mayer wrote in a blog post last week. "The entire industry has received scrutiny, and rightly so. Yet, we have received even more scrutiny due to the company's Chinese origins."

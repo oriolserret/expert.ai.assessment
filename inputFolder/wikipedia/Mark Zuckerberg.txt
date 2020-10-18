@@ -1,0 +1,254 @@
+Mark Elliot Zuckerberg (/ˈzʌkərbɜːrɡ/; born May 14, 1984) is an American media magnate, internet entrepreneur, and philanthropist. He is known for co-founding Facebook, Inc. and serves as its chairman, chief executive officer, and controlling shareholder.[3][4] He also is a co-founder of the solar sail spacecraft development project Breakthrough Starshot and serves as one of its board members.[5]
+
+Born in White Plains, New York, Zuckerberg attended Harvard University, where he launched the Facebook social networking service from his dormitory room on February 4, 2004, with college roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes.[6] Originally launched to select college campuses, the site expanded rapidly and eventually beyond colleges, reaching one billion users by 2012. Zuckerberg took the company public in May 2012 with majority shares. His net worth is estimated to be nearly $54 billion as of March 2020.[7] In 2007, at age 23, he became the world's youngest self-made billionaire. As of 2019, he is the only person under 50 in the Forbes ten richest people list, and the only one under 40 in the Top 20 Billionaires list.[8]
+
+Since 2010, Time magazine has named Zuckerberg among the 100 wealthiest and most influential people in the world as a part of its Person of the Year award.[9][10][11] In December 2016, Zuckerberg was ranked 10th on Forbes list of The World's Most Powerful People.[12]
+
+
+Contents
+1	Early life
+2	Software developer
+2.1	Early years
+2.2	College years
+3	Career
+3.1	Facebook
+3.2	Wirehog
+3.3	Platform, Beacon, and Connect
+3.4	Internet.org
+3.5	Legal controversies
+3.5.1	ConnectU lawsuits
+3.5.2	Saverin lawsuit
+3.5.3	Pakistan criminal investigation
+3.5.4	Paul Ceglia
+3.5.5	Palestinian terror attacks
+3.5.6	Hawaiian land ownership
+3.6	Testimony before U.S. Congress
+3.7	Breakthrough Starshot
+4	Depictions in media
+4.1	The Social Network
+4.1.1	Disputed accuracy
+4.2	Other depictions
+5	Philanthropy and Chan Zuckerberg Initiative
+6	Politics
+7	Personal life
+8	See also
+9	References
+10	External links
+Early life
+Zuckerberg was born on May 14, 1984, in White Plains, New York.[13] His parents are Karen (née Kempner), a psychiatrist, and Edward Zuckerberg, a dentist.[14] He and his three sisters, Randi, Donna, and Arielle, were brought up in Dobbs Ferry, New York, a small Westchester County village about 21 miles north of Midtown Manhattan.[15] Zuckerberg was raised in a Reform Jewish household,[16][17] and his ancestors hailed from Germany, Austria and Poland.[18] He had a Star Wars-themed bar mitzvah when he turned 13.[16][19]
+
+At Ardsley High School, Zuckerberg excelled in classes. After two years, he transferred to the private school Phillips Exeter Academy, where he won prizes in mathematics, astronomy, physics, and classical studies. In his youth, he also attended the Johns Hopkins Center for Talented Youth summer camp. On his college application, Zuckerberg stated that he could read and write French, Hebrew, Latin, and ancient Greek. He was captain of the fencing team.[20][21][22]
+
+Software developer
+Early years
+Zuckerberg began using computers and writing software in middle school. His father taught him Atari BASIC Programming in the 1990s, and later hired software developer David Newman to tutor him privately. Zuckerberg took a graduate course in the subject at Mercy College near his home while still in high school. In one program, since his father's dental practice was operated from their home, he built a software program he called "ZuckNet" that allowed all the computers between the house and dental office to communicate with each other. It is considered a "primitive" version of AOL's Instant Messenger, which came out the following year.[23][24]
+
+A New Yorker profile said of Zuckerberg: "some kids played computer games. Mark created them." Zuckerberg himself recalls this period: "I had a bunch of friends who were artists. They'd come over, draw stuff, and I'd build a game out of it." The New Yorker piece noted that Zuckerberg was not, however, a typical "geek-klutz", as he later became captain of his prep school fencing team and earned a classics diploma. Napster co-founder Sean Parker, a close friend, notes that Zuckerberg was "really into Greek odysseys and all that stuff", recalling how he once quoted lines from the Roman epic poem Aeneid, by Virgil, during a Facebook product conference.[15]
+
+During Zuckerberg's high school years, he worked under the company name Intelligent Media Group to build a music player called the Synapse Media Player. The device used machine learning to learn the user's listening habits, which was posted to Slashdot[25] and received a rating of 3 out of 5 from PC Magazine.[26]
+
+College years
+Mark Zuckerberg with a laptop, facing the camera
+Zuckerberg in 2005
+The New Yorker noted that by the time Zuckerberg began classes at Harvard, he had already achieved a "reputation as a programming prodigy." He studied psychology and computer science and belonged to Alpha Epsilon Pi and Kirkland House.[10][15][27] In his sophomore year, he wrote a program that he called CourseMatch, which allowed users to make class selection decisions based on the choices of other students and also to help them form study groups. A short time later, he created a different program he initially called Facemash that let students select the best-looking person from a choice of photos. According to Arie Hasit, Zuckerberg's roommate at the time, "he built the site for fun." Hasit explains:
+
+We had books called Face Books, which included the names and pictures of everyone who lived in the student dorms. At first, he built a site and placed two pictures or pictures of two males and two females. Visitors to the site had to choose who was "hotter" and according to the votes there would be a ranking.[28]
+
+The site went up over a weekend, but by Monday morning, the college shut it down, because its popularity had overwhelmed one of Harvard's network switches and prevented students from accessing the Internet. In addition, many students complained that their photos were being used without permission. Zuckerberg apologized publicly, and the student paper ran articles stating that his site was "completely improper."[28]
+
+The following semester, in January 2004, Zuckerberg began writing code for a new website.[29] On February 4, 2004, Zuckerberg launched "Thefacebook," originally located at thefacebook.com.[30]
+
+Six days after the site launched, three Harvard seniors, Cameron Winklevoss, Tyler Winklevoss, and Divya Narendra, accused Zuckerberg of intentionally misleading them into believing he would help them build a social network called HarvardConnection.com, while he was instead using their ideas to build a competing product.[31] The three complained to The Harvard Crimson, and the newspaper began an investigation in response.[citation needed]
+
+Following the official launch of the Facebook social media platform, the three filed a lawsuit against Zuckerberg that resulted in a settlement.[32] The agreed settlement was for 1.2 million Facebook shares.[33]
+
+Zuckerberg dropped out of Harvard in his sophomore year in order to complete his project.[34] In January 2014, he recalled:
+
+I remember really vividly, you know, having pizza with my friends a day or two after—I opened up the first version of Facebook at the time I thought, "You know, someone needs to build a service like this for the world." But I just never thought that we'd be the ones to help do it. And I think a lot of what it comes down to is we just cared more.[35]
+
+On May 25, 2017, at Harvard’s 366th commencement Day, Zuckerberg, after giving a commencement speech,[36] received an honorary degree from Harvard.[37][38]
+
+Career
+External video
+ Mark Zuckerberg's career in 90 seconds, The Daily Telegraph[39]
+Facebook
+Main articles: Facebook and History of Facebook
+On February 4, 2004, Zuckerberg launched Facebook from his Harvard dormitory room.[40][41] An earlier inspiration for Facebook may have come from Phillips Exeter Academy, the prep school from which Zuckerberg graduated in 2002. It published its own student directory, "The Photo Address Book", which students referred to as "The Facebook". Such photo directories were an important part of the student social experience at many private schools. With them, students were able to list attributes such as their class years, their friends, and their telephone numbers.[40]
+
+Once at college, Zuckerberg's Facebook started off as just a "Harvard thing" until Zuckerberg decided to spread it to other schools, enlisting the help of roommate Dustin Moskovitz. They began with Columbia University, New York University, Stanford, Dartmouth, Cornell, University of Pennsylvania, Brown, and Yale.[42] Samyr Laine, a triple jumper representing Haiti at the 2012 Summer Olympics, shared a room with Zuckerberg during Facebook's founding. "Mark was clearly on to great things," said Laine, who was Facebook's fourteenth user.[43]
+
+Zuckerberg, Moskovitz and some friends moved to Palo Alto, California in Silicon Valley where they leased a small house that served as an office. Over the summer, Zuckerberg met Peter Thiel, who invested in the company. They got their first office in mid-2004. According to Zuckerberg, the group planned to return to Harvard, but eventually decided to remain in California.[44][45] They had already turned down offers by major corporations to buy the company. In an interview in 2007, Zuckerberg explained his reasoning: "It's not because of the amount of money. For me and my colleagues, the most important thing is that we create an open information flow for people. Having media corporations owned by conglomerates is just not an attractive idea to me."[41]
+
+He restated these goals to Wired magazine in 2010: "The thing I really care about is the mission, making the world open."[46] Earlier, in April 2009, Zuckerberg sought the advice of former Netscape CFO Peter Currie about financing strategies for Facebook.[47] On July 21, 2010, Zuckerberg reported that the company reached the 500 million-user mark.[48] When asked whether Facebook could earn more income from advertising as a result of its phenomenal growth, he explained:
+
+I guess we could ... If you look at how much of our page is taken up with ads compared to the average search query. The average for us is a little less than 10 percent of the pages and the average for search is about 20 percent taken up with ads ... That's the simplest thing we could do. But we aren't like that. We make enough money. Right, I mean, we are keeping things running; we are growing at the rate we want to.[46]
+
+In 2010, Steven Levy, who wrote the 1984 book Hackers: Heroes of the Computer Revolution, wrote that Zuckerberg "clearly thinks of himself as a hacker". Zuckerberg said that "it's OK to break things" "to make them better".[49][50] Facebook instituted "hackathons" held every six to eight weeks where participants would have one night to conceive of and complete a project.[49] The company provided music, food, and beer at the hackathons, and many Facebook staff members, including Zuckerberg, regularly attended.[50] "The idea is that you can build something really good in a night", Zuckerberg told Levy. "And that's part of the personality of Facebook now ... It's definitely very core to my personality."[49]
+
+Vanity Fair magazine named Zuckerberg number 1 on its 2010 list of the Top 100 "most influential people of the Information Age".[51] Zuckerberg ranked number 23 on the Vanity Fair 100 list in 2009.[52] In 2010, Zuckerberg was chosen as number 16 in New Statesman's annual survey of the world's 50 most influential figures.[53]
+
+In a 2011 interview with PBS shortly after the death of Steve Jobs, Zuckerberg said that Jobs had advised him on how to create a management team at Facebook that was "focused on building as high quality and good things as you are".[54]
+
+
+Zuckerberg and Russian President Dmitry Medvedev during their meeting at the Russian leader's residence outside Moscow, October 1, 2012
+On October 1, 2012, Zuckerberg visited Russian Prime Minister Dmitry Medvedev in Moscow to stimulate social media innovation in Russia and to boost Facebook's position in the Russian market.[55] Russia's communications minister tweeted that Prime Minister Dmitry Medvedev urged the social media giant's founder to abandon plans to lure away Russian programmers and instead consider opening a research center in Moscow. In 2012, Facebook had roughly 9 million users in Russia, while domestic clone VK had around 34 million.[56] Rebecca Van Dyck, Facebook's head of consumer marketing, claimed that 85 million American Facebook users were exposed to the first day of the Home promotional campaign on April 6, 2013.[57]
+
+On August 19, 2013, The Washington Post reported that Zuckerberg's Facebook profile was hacked by an unemployed web developer.[58]
+
+At the 2013 TechCrunch Disrupt conference, held in September, Zuckerberg stated that he is working towards registering the 5 billion people who were not connected to the Internet as of the conference on Facebook. Zuckerberg then explained that this is intertwined with the aim of the Internet.org project, whereby Facebook, with the support of other technology companies, seeks to increase the number of people connected to the internet.[59][60]
+
+Zuckerberg was the keynote speaker at the 2014 Mobile World Congress (MWC), held in Barcelona, Spain, in March 2014, which was attended by 75,000 delegates. Various media sources highlighted the connection between Facebook's focus on mobile technology and Zuckerberg's speech, claiming that mobile represents the future of the company.[61] Zuckerberg's speech expands upon the goal that he raised at the TechCrunch conference in September 2013, whereby he is working towards expanding Internet coverage into developing countries.[62]
+
+Alongside other American technology figures like Jeff Bezos and Tim Cook, Zuckerberg hosted visiting Chinese politician Lu Wei, known as the "Internet czar" for his influence in the enforcement of China's online policy, at Facebook's headquarters on December 8, 2014. The meeting occurred after Zuckerberg participated in a Q&A session at Tsinghua University in Beijing, China, on October 23, 2014, where he attempted to converse in Mandarin Chinese; although Facebook is banned in China, Zuckerberg is highly regarded among the people and was at the university to help fuel the nation's burgeoning entrepreneur sector.[63]
+
+Zuckerberg fielded questions during a live Q&A session at the company's headquarters in Menlo Park on December 11, 2014. The founder and CEO explained that he does not believe Facebook is a waste of time, because it facilitates social engagement, and participating in a public session was so that he could "learn how to better serve the community".[64][65]
+
+Zuckerberg receives a one-dollar salary as CEO of Facebook.[66] In June 2016, Business Insider named Zuckerberg one of the "Top 10 Business Visionaries Creating Value for the World" along with Elon Musk and Sal Khan, due to the fact that he and his wife "pledged to give away 99% of their wealth — which is estimated at $55.0 billion."[67]
+
+Wirehog
+Main article: Wirehog
+A month after Zuckerberg launched Facebook in February 2004, i2hub, another campus-only service, created by Wayne Chang, was launched. i2hub focused on peer-to-peer file sharing. At the time, both i2hub and Facebook were gaining the attention of the press and growing rapidly in users and publicity. In August 2004, Zuckerberg, Andrew McCollum, Adam D'Angelo, and Sean Parker launched a competing peer-to-peer file sharing service called Wirehog, a precursor to Facebook Platform applications.[68][69]
+
+Platform, Beacon, and Connect
+Waist high portrait of man in his twenties, looking into the camera and gesturing with both hands, wearing a black pullover shirt that says "The North Face" and wearing identification on a white band hanging from his neck
+Zuckerberg at the World Economic Forum in Davos, Switzerland (January 2009).
+On May 24, 2007, Zuckerberg announced Facebook Platform, a development platform for programmers to create social applications within Facebook. Within weeks, many applications had been built and some already had millions of users. It grew to more than 800,000 developers around the world building applications for Facebook Platform.[70]
+
+On November 6, 2007, Zuckerberg announced Beacon, a social advertising system that enabled people to share information with their Facebook friends based on their browsing activities on other sites. For example, eBay sellers could let friends know automatically what they have for sale via the Facebook news feed as they listed items for sale. The program came under scrutiny because of privacy concerns from groups and individual users. Zuckerberg and Facebook failed to respond to the concerns quickly, and on December 5, 2007, Zuckerberg wrote a blog post on Facebook,[71] taking responsibility for the concerns about Beacon and offering an easier way for users to opt out of the service.
+
+In 2007, Zuckerberg was added to MIT Technology Review's TR35 list as one of the top 35 innovators in the world under the age of 35.[72] On July 23, 2008, Zuckerberg announced Facebook Connect, a version of Facebook Platform for users.[citation needed]
+
+Internet.org
+In a public Facebook post, Zuckerberg launched the Internet.org project in late August 2013. He explained that the primary aim of the initiative is to provide Internet access to the five billion people who are not connected as of the launch date. According to Zuckerberg, Internet.org would also create new jobs and open up new markets using a three-tier strategy. He stated in his post:
+
+The world economy is going through a massive transition right now. The knowledge economy is the future. By bringing everyone online, we'll not only improve billions of lives, but we'll also improve our own as we benefit from the ideas and productivity they contribute to the world. Giving everyone the opportunity to connect is the foundation for enabling the knowledge economy. It is not the only thing we need to do, but it's a fundamental and necessary step.[60]
+
+Internet.org faced significant opposition in India, where activists said its limited internet ran counter to the idea of net neutrality; Zuckerberg said that a limited internet was better than no internet. Internet.org was shut down in India in February 2016.[73] Zuckerberg later met with Narendra Modi, Satya Nadella and Sundar Pichai in the San Francisco Bay Area to discuss how to effectively establish affordable internet access in less developed countries.[74] He also changed his Facebook profile picture to extend his support to Digital India to help rural communities stay connected to the internet.[75]
+
+Legal controversies
+Main article: Criticism of Facebook
+ConnectU lawsuits
+Main article: ConnectU
+Harvard students Cameron Winklevoss, Tyler Winklevoss, and Divya Narendra accused Zuckerberg of intentionally making them believe he would help them build a social network called HarvardConnection.com (later called ConnectU).[76] They filed a lawsuit in 2004; it was dismissed on a technicality on March 28, 2007. It was refiled soon thereafter in federal court in Boston. Facebook countersued in regards to Social Butterfly, a project put out by The Winklevoss Chang Group, an alleged partnership between ConnectU and i2hub. On June 25, 2008, the case settled and Facebook agreed to transfer over 1.2 million common shares and pay $20 million in cash.[77]
+
+In November 2007, confidential court documents were posted on the website of 02138, a magazine that catered to Harvard alumni. They included Zuckerberg's Social Security number, his parents' home address, and his girlfriend's address. Facebook filed to have the documents removed; the judge ruled in favor of 02138.[78]
+
+Saverin lawsuit
+A lawsuit filed by Eduardo Saverin against Facebook and Zuckerberg was settled out of court. Though terms of the settlement were sealed, the company affirmed Saverin's title as co-founder of Facebook. Saverin signed a non-disclosure contract after the settlement.[79]
+
+Pakistan criminal investigation
+In June 2010, Pakistani Deputy Attorney General Muhammad Azhar Sidiqque launched a criminal investigation into Zuckerberg and Facebook co-founders Dustin Moskovitz and Chris Hughes after a "Draw Muhammad" contest was hosted on Facebook. The investigation named the anonymous German woman who created the contest. Sidiqque asked the country's police to contact Interpol to have Zuckerberg and the three others arrested for blasphemy. On May 19, 2010, Facebook's website was temporarily blocked in Pakistan until Facebook removed the contest from its website at the end of May. Sidiqque also asked its UN representative to raise the issue with the United Nations General Assembly.[80][81]
+
+Paul Ceglia
+Main article: Paul Ceglia
+In June 2010, Paul Ceglia, the owner of a wood pellet fuel company in Allegany County, upstate New York, filed suit against Zuckerberg, claiming 84 percent ownership of Facebook and seeking monetary damages. According to Ceglia, he and Zuckerberg signed a contract on April 28, 2003, that an initial fee of $1,000 entitled Ceglia to 50% of the website's revenue, as well as an additional 1% interest in the business per day after January 1, 2004, until website completion. Zuckerberg was developing other projects at the time, among which was Facemash, the predecessor of Facebook, but did not register the domain name thefacebook.com until January 1, 2004. Facebook management dismissed the lawsuit as "completely frivolous". Facebook spokesman Barry Schnitt told a reporter that Ceglia's counsel had unsuccessfully sought an out-of-court settlement.[82][83]
+
+On October 26, 2012, federal authorities arrested Ceglia, charging him with mail and wire fraud and of "tampering with, destroying and fabricating evidence in a scheme to defraud the Facebook founder of billions of dollars." Ceglia is accused of fabricating emails to make it appear that he and Zuckerberg discussed details about an early version of Facebook, although after examining their emails, investigators found there was no mention of Facebook in them.[84] Some law firms withdrew from the case before it was initiated and others after Ceglia's arrest.[85][86]
+
+Palestinian terror attacks
+On July 2, 2016, Israeli cabinet minister Gilad Erdan accused Zuckerberg of having some responsibility for deadly attacks by Palestinians against Israelis.[87] According to him, the social network was not doing enough to ban posts to its platform that incite violence against Israelis.[88] "Some of the victims' blood is on Zuckerberg's hands", Erdan said.[89]
+
+Hawaiian land ownership
+In January 2017, Zuckerberg filed eight "quiet title and partition" lawsuits against hundreds of native Hawaiians to purchase small tracts of land which they own. This land is contained within the 700 acres of land in the Hawaiian island of Kauai that Zuckerberg had purchased in 2014. When he learned that Hawaiian land ownership law differs from that of the other 49 states, he dropped the lawsuits.[90][91]
+
+Testimony before U.S. Congress
+On April 10 and 11, 2018, Zuckerberg began testifying before the United States Senate Committee on Commerce, Science, and Transportation regarding the usage of personal data by Facebook in relation to the Facebook–Cambridge Analytica data breach.[92] He has called the whole affair a breach of trust between Aleksandr Kogan, Cambridge Analytica, and Facebook.[93] Zuckerberg has refused requests to appear to give evidence on the matter to a Parliamentary committee in the United Kingdom.[94]
+
+Breakthrough Starshot
+Zuckerberg co-founded and is a board member of the solar sail spacecraft development project Breakthrough Starshot.[95]
+
+Depictions in media
+The Social Network
+Main article: The Social Network
+
+Jesse Eisenberg (pictured) played Zuckerberg in The Social Network
+A movie based on Zuckerberg and the founding years of Facebook, The Social Network was released on October 1, 2010, starring Jesse Eisenberg as Zuckerberg. After Zuckerberg was told about the film, he responded, "I just wished that nobody made a movie of me while I was still alive."[96] Also, after the film's script was leaked on the Internet and it was apparent that the film would not portray Zuckerberg in a wholly positive light, he stated that he wanted to establish himself as a "good guy".[97] The film is based on the book The Accidental Billionaires by Ben Mezrich, which the book's publicist once described as "big juicy fun" rather than "reportage".[98] The film's screenwriter Aaron Sorkin told New York magazine, "I don't want my fidelity to be the truth; I want it to be storytelling", adding, "What is the big deal about accuracy purely for accuracy's sake, and can we not have the true be the enemy of the good?"[99]
+
+Upon winning the Golden Globe Award for Best Picture on January 16, 2011, producer Scott Rudin thanked Facebook and Zuckerberg "for his willingness to allow us to use his life and work as a metaphor through which to tell a story about communication and the way we relate to each other."[100] Sorkin, who won for Best Screenplay, retracted some of the impressions given in his script:[101]
+
+I wanted to say to Mark Zuckerberg tonight, if you're watching, Rooney Mara's character makes a prediction at the beginning of the movie. She was wrong. You turned out to be a great entrepreneur, a visionary, and an incredible altruist.
+On January 29, 2011, Zuckerberg made a surprise guest appearance on Saturday Night Live, which was hosted by Jesse Eisenberg. They both said it was the first time they had met.[102] Eisenberg asked Zuckerberg, who had been critical of his portrayal by the film, what he thought of the movie. Zuckerberg replied, "It was interesting."[103] In a subsequent interview about their meeting, Eisenberg explained that he was "nervous to meet him, because I had spent now, a year and a half thinking about him ..." He added, "Mark has been so gracious about something that's really so uncomfortable ... The fact that he would do SNL and make fun of the situation is so sweet and so generous. It's the best possible way to handle something that, I think, could otherwise be very uncomfortable."[104][105]
+
+Disputed accuracy
+Jeff Jarvis, author of the book Public Parts, interviewed Zuckerberg and believed Sorkin made up too much of the story. He stated, "That's what the internet is accused of doing, making stuff up, not caring about the facts."[106]
+
+According to David Kirkpatrick, former technology editor at Fortune magazine and author of The Facebook Effect: The Inside Story of the Company That Is Connecting the World, (2011),[107] "the film is only "40% true ... he is not snide and sarcastic in a cruel way, the way Zuckerberg is played in the movie." He says that "a lot of the factual incidents are accurate, but many are distorted and the overall impression is false", and concludes that primarily "his motivations were to try and come up with a new way to share information on the Internet".[106]
+
+Although the film portrayed Zuckerberg's creation of Facebook in order to elevate his stature after not getting into any of the elite final clubs at Harvard, Zuckerberg said he had no interest in joining the clubs.[15] Kirkpatrick agreed that the impression implied by the film is "false". Karel Baloun, a former senior engineer at Facebook, noted that the "image of Zuckerberg as a socially inept nerd is overstated ... It is fiction ..." He likewise dismissed the film's assertion that he "would deliberately betray a friend."[106]
+
+Other depictions
+
+Graffiti depicting Zuckerberg on the Israeli West Bank barrier in Bethlehem, July 2018
+Zuckerberg voiced himself on an episode of The Simpsons titled "Loan-a Lisa", which first aired on October 3, 2010. In the episode, Lisa Simpson and her friend Nelson encounter Zuckerberg at an entrepreneurs' convention. Zuckerberg tells Lisa that she does not need to graduate from college to be wildly successful, referencing Bill Gates and Richard Branson as examples.[108]
+
+On October 9, 2010, Saturday Night Live lampooned Zuckerberg and Facebook.[109] Andy Samberg played Zuckerberg. The real Zuckerberg was reported to have been amused: "I thought this was funny."[110]
+
+Stephen Colbert awarded a "Medal of Fear" to Zuckerberg at the Rally to Restore Sanity and/or Fear on October 30, 2010, "because he values his privacy much more than he values yours".[111]
+
+Zuckerberg appears in the climax of the documentary film Terms and Conditions May Apply.[112][113][114]
+
+Zuckerberg was parodied in the South Park episode "Franchise Prequel".[115]
+
+On December 7, 2018, Epic Rap Battles of History released a rap battle between Zuckerberg and Elon Musk.[116]
+
+Philanthropy and Chan Zuckerberg Initiative
+See also: Chan Zuckerberg Initiative
+
+Chan and Zuckerberg in Prague, Czech Republic, 2013
+In 2010, Zuckerberg donated an undisclosed amount to Diaspora, an open-source personal Web server that implements a distributed social networking service. He called it a "cool idea".[46]
+
+Zuckerberg founded the Start-up: Education foundation.[117][118] On September 22, 2010, it was reported that Zuckerberg had donated $100 million to Newark Public Schools, the public school system of Newark, New Jersey.[119][120] Critics noted the timing of the donation as being close to the release of The Social Network, which painted a somewhat negative portrait of Zuckerberg.[121] Zuckerberg responded to the criticism, saying, "The thing that I was most sensitive about with the movie timing was, I didn't want the press about The Social Network movie to get conflated with the Newark project. I was thinking about doing this anonymously just so that the two things could be kept separate."[122] Newark Mayor Cory Booker stated that he and New Jersey Governor Chris Christie had to convince Zuckerberg's team not to make the donation anonymously.[122] The money was largely wasted, according to journalist Dale Russakoff.[123][124]
+
+On December 9, 2010, Zuckerberg, Bill Gates, and investor Warren Buffett signed "The Giving Pledge", in which they promised to donate to charity at least half of their wealth over the course of time, and invited others among the wealthy to donate 50 percent or more of their wealth to charity.[125]
+
+In December 2012, Zuckerberg and his wife Priscilla Chan announced that over the course of their lives they would give the majority of their wealth to "advancing human potential and promoting equality" in the spirit of The Giving Pledge.[126][127]
+
+On December 19, 2013, Zuckerberg announced a donation of 18 million Facebook shares to the Silicon Valley Community Foundation, to be executed by the end of the month—based on Facebook's valuation as of then, the shares totaled $990 million in value. On December 31, 2013, the donation was recognized as the largest charitable gift on public record for 2013.[128] The Chronicle of Philanthropy placed Zuckerberg and his wife at the top of the magazine's annual list of 50 most generous Americans for 2013, having donated roughly $1 billion to charity.[129]
+
+In October 2014, Zuckerberg and his wife Priscilla Chan donated US$25 million to combat the Ebola virus disease, specifically the West African Ebola virus epidemic.[130][131]
+
+On December 1, 2015, Zuckerberg and Chan pledged to transfer 99% of their Facebook shares, then valued at US$45 billion, to the Chan Zuckerberg Initiative, their new organization that will focus on health and education. The funds will not be transferred immediately, but over the course of their lives.[132][133] Instead of forming a charitable corporation to donate the value of the stock to, as Bill Gates, Warren Buffett, Larry Page, Sergey Brin and other billionaires have done, Zuckerberg and Chan chose to use the structure of a limited liability company (LLC). Some journalists and academics have said the Chan Zuckerberg Initiative conducts philanthrocapitalism.[134][135][136][137]
+
+In 2016, the Chan Zuckerberg Initiative gave $600 million to create the tax-exempt charity Chan Zuckerberg Biohub, a collaborative research space in San Francisco's Mission Bay District near the University of California, San Francisco, with the intent to foster interaction and collaboration between scientists at UCSF, University of California, Berkeley, and Stanford University. Intellectual property generated would be jointly owned by Biohub and the discoverer's home institution. Unlike foundations like the Bill and Melinda Gates Foundation which open up all research funded to unrestricted access and reuse by the public, Biohub retains the right to commercialize any research it funds. Inventors will have the option of making their discoveries open-source, with permission from Biohub.[138][139][140]
+
+Amidst the COVID-19 pandemic, Zuckerberg donated $25 million to a Bill and Melinda Gates Foundation-backed accelerator that is searching for treatments for the disease.[141] He also announced $25 million in grants to support local journalism that was impacted by the pandemic and $75 million in advertisement purchases in local newspapers by Facebook, Inc., where Facebook will market itself.[142]
+
+Politics
+
+Zuckerberg listening to President Barack Obama before a private meeting where Obama dined with technology business leaders in Woodside, California, February 17, 2011.
+In 2002, Zuckerberg registered to vote in Westchester County, New York, where he grew up, but did not cast a ballot until November 2008. Santa Clara County Registrar of Voters Spokeswoman, Elma Rosas, told Bloomberg that Zuckerberg is listed as "no preference" on voter rolls, and he voted in at least two of the past three general elections, in 2008 and 2012.[143][144]
+
+Zuckerberg has never revealed his own political views: some news outlets consider him to be a conservative,[145][146] while others consider him liberal.[147]
+
+On February 13, 2013, Zuckerberg hosted his first ever fundraising event for New Jersey Governor Chris Christie. Zuckerberg's particular interest on this occasion was education reform, and Christie's education reform work focused on teachers unions and the expansion of charter schools.[148][149] Later that year, Zuckerberg hosted a campaign fundraiser for Newark mayor Cory Booker, who was running in the 2013 New Jersey special Senate election.[150] In September 2010, with the support of Governor Chris Christie, Booker obtained a US$100 million pledge from Zuckerberg to Newark Public Schools.[151] In December 2012, Zuckerberg donated 18 million shares to the Silicon Valley Community Foundation, a community organization that includes education in its list of grant-making areas.[152][153]
+
+
+Zuckerberg with Argentine President Cristina Fernández de Kirchner, 2015
+On April 11, 2013, Zuckerberg led the launch of a 501(c)(4) lobbying group called FWD.us. The founders and contributors to the group were primarily Silicon Valley entrepreneurs and investors, and its president was Joe Green, a close friend of Zuckerberg.[154][155][156][157] The goals of the group include immigration reform, improving the state of education in the United States, and enabling more technological breakthroughs that benefit the public,[158][159] yet it has also been criticized for financing ads advocating a variety of oil and gas development initiatives, including drilling in the Arctic National Wildlife Refuge and the Keystone XL pipeline.[160] In 2013, numerous liberal and progressive groups, such as The League of Conservation Voters, MoveOn.org, the Sierra Club, Democracy for America, CREDO, Daily Kos, 350.org, and Presente and Progressives United agreed to either pull their Facebook ad buys or not buy Facebook ads for at least two weeks, in protest of Zuckerberg ads funded by FWD.us that were in support of oil drilling and the Keystone XL pipeline, and in opposition to Obamacare among Republican United States senators who back immigration reform.[clarification needed][161]
+
+A media report on June 20, 2013 revealed that Zuckerberg actively engaged with Facebook users on his own profile page after the online publication of a FWD.us video. In response to a claim that the FWD.us organization is "just about tech wanting to hire more people", the Internet entrepreneur replied: "The bigger problem we're trying to address is ensuring the 11 million undocumented folks living in this country now and similar folks in the future are treated fairly."[162]
+
+In June 2013, Zuckerberg joined Facebook employees in a company float as part of the annual San Francisco Lesbian, Gay, Bisexual, and Transgender Pride Celebration. The company first participated in the event in 2011, with 70 employees, and this number increased to 700 for the 2013 march. The 2013 pride celebration was especially significant, as it followed a U.S. Supreme Court ruling that deemed the Defense of Marriage Act (DOMA) unconstitutional.[163][164]
+
+
+Zuckerberg and U.S. Secretary of State John Kerry, 2016
+When questioned about the mid-2013 PRISM scandal at the TechCrunch Disrupt conference in September 2013, Zuckerberg stated that the U.S. government "blew it." He further explained that the government performed poorly in regard to the protection of the freedoms of its citizens, the economy, and companies.[59]
+
+Zuckerberg placed a statement on his Facebook wall on December 9, 2015 which said that he wants "to add my voice in support of Muslims in our community and around the world" in response to the aftermath of the November 2015 Paris attacks and the 2015 San Bernardino attack.[165][166][167][168] The statement also said that Muslims are "always welcome" on Facebook, and that his position was a result of the fact that "as a Jew, my parents taught me that we must stand up against attacks on all communities."[169][170]
+
+On February 24, 2016, Zuckerberg sent out a company-wide internal memo to employees formally rebuking employees who had crossed out handwritten "Black Lives Matter" phrases on the company walls and had written "All Lives Matter" in their place. Facebook allows employees to free-write thoughts and phrases on company walls. The memo was then leaked by several employees. As Zuckerberg had previously condemned this practice at previous company meetings, and other similar requests had been issued by other leaders at Facebook, Zuckerberg wrote in the memo that he would now consider this overwriting practice not only disrespectful, but "malicious as well." According to Zuckerberg's memo, "Black Lives Matter doesn't mean other lives don't – it's simply asking that the black community also achieves the justice they deserve." The memo also noted that the act of crossing something out in itself, "means silencing speech, or that one person's speech is more important than another's." Zuckerberg also said in the memo that he would be launching investigations into the incidents.[171][172][173] New York's Daily News interviewed Facebook employees who commented anonymously that, "Zuckerberg was genuinely angry about the incident and it really encouraged staff that Zuckerberg showed a clear understanding of why the phrase 'Black Lives Matter' must exist, as well as why writing through it is a form of harassment and erasure."[171]
+
+In January 2017, Zuckerberg criticized Donald Trump's executive order to severely limit immigrants and refugees from some countries.[174]
+
+Cambridge Analytica whistleblower Christopher Wylie criticized Zuckerberg over Facebook's role in spreading religious intolerance in Sri Lanka.[175] Moulavi Zahran Hashim, a radical Islamist imam believed to be the mastermind behind the 2019 Sri Lanka Easter bombings, preached on a pro-ISIL Facebook account, known as "Al-Ghuraba" media.[176][177]
+
+Zuckerberg has funded a state-level ballot initiative for the 2020 general election that would raise taxes by altering California's Proposition 13 to require the tax assessment of commercial and industrial properties in the state at market rate.[178]
+
+Personal life
+Zuckerberg met his then-future wife, fellow student Priscilla Chan, at a fraternity party during his sophomore year at Harvard. They began dating in 2003.[179][180]
+
+In September 2010, Zuckerberg invited Chan, by then a medical student at the University of California, San Francisco,[181] to move into his rented Palo Alto house. Zuckerberg studied Mandarin in preparation for the couple's visit to China in December 2010.[182][183] On May 19, 2012, Zuckerberg and Chan married in Zuckerberg's backyard in an event that also celebrated her graduation from medical school.[184][185][186] On July 31, 2015, Zuckerberg announced that the couple was expecting a baby girl and revealed that Chan had experienced three miscarriages previously.[187] On December 1, Zuckerberg announced the birth of their daughter, Maxima Chan Zuckerberg ("Max").[188][189] The couple announced in their Chinese New Year video that Maxima's official Chinese name is Chen Mingyu (Chinese: 陈明宇).[190] They welcomed their second daughter, August, in August 2017.[191]
+
+Their Puli dog, Beast[192] has over two million followers on Facebook.[193]
+
+Raised Jewish, Zuckerberg once identified as an atheist, yet has since revised his views. In 2016, he said: "I was raised Jewish and then I went through a period where I questioned things, but now I believe religion is very important."[20][194][195]

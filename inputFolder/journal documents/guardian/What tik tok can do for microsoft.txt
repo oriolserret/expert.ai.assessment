@@ -1,0 +1,82 @@
+When news broke that Microsoft was considering buying the rising social media sensation TikTok, many who've followed the software maker for years expressed surprise. Even Microsoft co-founder Bill Gates called the potential $30 billion deal "a poisoned chalice."
+
+TikTok would make for an effective fire sale, following a meteoric rise that's netted the app more than 100 million users in the US and over 2 billion downloads worldwide by people who've turned it into a pop culture sensation. But TikTok is also owned by a Chinese firm, ByteDance, raising concerns among companies and government agencies that it could become a national security threat. (India has already banished TikTok, following a military skirmish between the two countries earlier this year.)
+
+
+Now playing: Why the US might try to ban TikTok
+ 6:28
+For more like this
+Subscribe to the CNET Now newsletter for our editors' picks of the most important stories of the day.
+Add your email
+ Yes, I also want to receive the CNET Insider newsletter, keeping me up to date with all things CNET.
+SIGN ME UP!
+By signing up, you agree to the CBS Terms of Use and acknowledge the data practices in our Privacy Policy. You may unsubscribe at any time.
+
+So, on Thursday, US President Donald Trump signed an executive order banning ByteDance from doing business within the states, starting in a month and a half. That would effectively mean TikTok's disappearance, if some or all of it wasn't bought by an American company -- it could be pulled from Apple's and Google's app stores, for example.
+
+"The spread in the United States of mobile applications developed and owned by companies in the People's Republic of China continues to threaten the national security, foreign policy, and economy of the United States," the executive order reads. "At this time, action must be taken to address the threat posed by one mobile application in particular, TikTok."
+
+gettyimages-1227895596
+TikTok's CEO told staff in a memo that Trump may be punishing the company as a way to get at the Chinese government.
+
+Getty Images
+Trump signed the order after a series of public threats, as well as moves by government agencies and private companies to ban the app from phones connected to their networks. Congress had also passed legislation banning the app from all government phones. (It's unclear, though, if those bans would survive legal challenges.)
+
+Even with all that drama, tech watchers were surprised to hear that Microsoft, which is known primarily for its business and computer software, was interested in buying TikTok, a social media service for bite-size videos that's wildly popular with teens. 
+
+Some of TikTok's most popular clips feature teenagers replicating intricate short dance routines to music such as rapper K Camp's Lottery (known as "renegade" on the service for the repeated word in the lyrics) and country rap singer Blanco Brown's The Git Up. All told, TikTok videos of people dancing to those two songs have been watched more than 2.2 billion times. 
+
+Even 85-year-old movie star Dame Judi Dench has taken to learning TikTok dances with her 22-year-old grandson. "It saved my life," she told Britain's Channel 4 News, saying it helped give purpose during a time when, she said, days and months have been bleeding together without much meaning. "I have to rehearse all those moves," she added. "Don't just think they come naturally."
+
+
+That's a far cry from the way people describe Microsoft's otherwise staid office-productivity and PC software, which is part of what's driven people's confusion over the deal. That and the tech giant's history, which is littered with consumer products that failed spectacularly -- think Windows Phone software, Nokia, the Kin phone for teens and the Zune iPod competitor. And now it seems poised to make another multibillion bet with TikTok.
+
+"Yeah, my critique of dance moves will be fantastically value-added for them," former Microsoft CEO Bill Gates snarked when discussing the sale with Wired, in an interview published Friday. He called the deal strange, and "a poisoned chalice," suggesting it'll be a tough move for Microsoft. "Being big in the social media business is no simple game."
+
+bill-gates-summer-reading-list
+Enlarge Image
+Microsoft co-founder Bill Gates isn't convinced the tech giant's potential takeover of TikTok is such a good idea.
+
+GatesNotes
+Microsoft declined to make CEO Satya Nadella or President Brad Smith available for interviews. And aside from an Aug. 2 blog post saying Nadella spoke with Trump by phone about a potential deal to buy TikTok, Microsoft has remained largely silent about the situation.
+
+Tech experts, meanwhile, have been trying to come up with answers for why Microsoft, which has more than $133 billion in cash and has made more than 80 acquisitions in the past six years under Nadella, would want TikTok.  
+
+Some argue Microsoft may be looking to nab TikTok for cheap (because the app is about to be banned from the US) and then sell it off in the future for oodles of cash. Analysts at Wedbush, for example, said in a Friday note to investors that Microsoft's up to $40 billion purchase could turn into roughly $200 billion "in a few years," if managed correctly. (That's a big if.)
+
+Others wonder if this is about Microsoft gearing up to make another big bet on consumer technology. Its successful consumer businesses today largely revolve around its Xbox video game console and gaming service, though its Surface laptops and tablets are well-regarded too. Both are part of Microsoft's More Personal Computing division, which raked in nearly $45.6 billion in sales last year, with the rest of its money coming from business software like its Office Suite, its Windows software to power PCs and its enterprise tech, including its Azure server business.
+
+"Even though Microsoft is all about business software and services, there are a couple of parts of the company focused on trying to make Microsoft more appealing to a younger audience," wrote Mary Jo Foley, a longtime Microsoft reporter at CNET sister site ZDNet. "The obvious one is the gaming franchise at Microsoft."
+
+xbox-1s
+Enlarge Image
+Microsoft's Xbox video game division is one of the company's only successful consumer businesses.
+
+Angela Lang/CNET
+There's good reason to consider TikTok a way for Microsoft to expand its Xbox business. Video games are one of the most popular parts of YouTube, for example. And Amazon's Twitch is one of the most influential and widely used game-streaming services in the industry. Facebook, meanwhile, has been upping its investment in gaming, through both its Facebook Gaming service and Oculus VR, which builds virtual reality and augmented reality headsets and which Facebook bought in 2014 for more than $2 billion.
+
+For Microsoft, a 45-year-old company, having a social media company may help make its Xbox video game console much more compelling to the 10- to 19-year-olds who've turned TikTok into an international hit, according to data compiled by Statista.
+
+Another shot at social
+Former Microsoft CEO Steve Ballmer said he regretted missing out on the smartphone and search crazes. And he spent at least $7 billion trying to catch up by buying  phone giant Nokia, only to see that business fail. That fail came seven years after Ballmer lost a $44.6 billion bid to buy Yahoo. 
+
+Some Microsoft watchers believe the company is following a similar path with social media -- trying to buy its way in, whether smartly or not.
+
+"This is an audience of people they don't normally talk to," said Bob O'Donnell, an analyst at Technalysis research. But that has pitfalls.
+
+Microsoft has spent the past few years proclaiming people's right to privacy and suggesting, along with Apple, that the targeted-advertising model Facebook and Google rely on is bad. Buying TikTok, which effectively means getting into competition with the world's largest social network, Facebook, would force Microsoft to prove it's right or wrong.
+
+Big gamble
+Microsoft buying TikTok wouldn't just be happening as a normal corporate transaction though. Trump has turned it into a national security issue by effectively forcing ByteDance to sell TikTok if it wants to continue operating in the US. 
+
+"In countries, such as the United States, in the current environment some politicians have forcefully attacked China, and in turn, Chinese companies, making it difficult to have a thoughtful and nuanced conversation about complex situations," wrote Zhang Yiming, TikTok's CEO, in a company-wide memo obtained by CNN.
+
+"Being big in the social media business is no simple game."
+Bill Gates
+By buying TikTok, Microsoft may be seen by Chinese companies and the country's government as siding with the US during a time when tensions between the two countries are strained.
+
+"If they become an agent of something that's bad to the Chinese, that could be bad for them," said Roger Kay, an analyst at Endpoint Technologies Associates. "It puts them in a funny position that ethically may be bad for them, and they may have to answer for that at some point."
+
+But that's assuming the deal happens at all. Over the past week, rumors have gone from Microsoft buying only a part of TikTok to buying it all, and to Apple possibly wanting to buy the app (the iPhone maker said that's not true). 
+
+However this saga ends, it'll likely be worthy of a TikTok video or two.
