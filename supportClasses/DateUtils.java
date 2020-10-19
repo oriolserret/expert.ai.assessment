@@ -186,29 +186,6 @@ public class DateUtils
 
 	public static void main(String[] args)
 	{
-		try
-		{
-			Date date;
-
-			date = Calendar.getInstance().getTime();
-			System.out.println("date: " + date);
-
-			date = DateUtils.clearTimeComponent(date);
-			System.out.println("date: " + date);
-
-			date = DateUtils.add(date, Calendar.DATE, 1);
-			System.out.println("date: " + date);
-
-			System.out.println(DateUtils.stringDateToDate("27/09/2016"));
-			System.out.println(DateUtils.stringDateToDate("10/09/2014"));
-			System.out.println(DateUtils.stringDateToDate("01/01/2015"));
-			System.out.println(DateUtils.stringDateToDate("29/02/2014"));
-			System.out.println(DateUtils.stringDateToDate("29/02/2015"));
-			System.out.println(DateUtils.stringDateToDate("25/11/2015"));
-		}
-		catch (Throwable throwable)
-		{
-			throwable.printStackTrace();
-		}
+		
 	}
 }

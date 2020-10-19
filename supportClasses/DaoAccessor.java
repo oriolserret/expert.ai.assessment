@@ -7,5 +7,6 @@ import org.springframework.stereotype.Component;
 public class DaoAccessor
 {
 	@Autowired
-	public PersistenceEntityDao persistenceEntityDao;
+	// TODO: define all the dao classes here into this DaoAccessor
+	// public PersistenceEntityDao persistenceEntityDao;
 }
